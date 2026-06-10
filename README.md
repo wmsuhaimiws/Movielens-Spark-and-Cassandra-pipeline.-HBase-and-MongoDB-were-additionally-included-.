@@ -33,7 +33,6 @@ results are optionally replicated on **HBase** and **MongoDB**.
 ```
 .
 ├── README.md                     ← this file (project landing page)
-├── LICENSE                       ← MIT + MovieLens dataset attribution
 ├── requirements.txt              ← Python dependencies
 ├── .gitignore
 ├── notebooks/
@@ -48,7 +47,6 @@ results are optionally replicated on **HBase** and **MongoDB**.
     ├── SETUP_WINDOWS_WSL.md      ← full Windows-11 / WSL2 cluster setup (incl. HBase/MongoDB)
     ├── REPRODUCIBILITY.md        ← environment, versions, reproducibility steps
     ├── RESULTS.md                ← verified findings + interpretation summary
-    └── GITHUB_ABOUT.md           ← suggested About description / topics for the repo
 ```
 
 > `genres.py` and `schemas.py` live **beside** the cluster notebook on purpose: the notebook
