@@ -1,0 +1,5 @@
+use this link if error occured during preview ipynb file: 
+
+https://nbviewer.org/github/wmsuhaimiws/Movielens-Spark-and-Cassandra-pipeline/tree/a2c11a1b85a5026673faede6e81a90be6a1ef44e/notebooks/movielens_pipeline.ipynb
+
+https://nbviewer.org/github/wmsuhaimiws/Movielens-Spark-and-Cassandra-pipeline/tree/a2c11a1b85a5026673faede6e81a90be6a1ef44e/notebooks/movielens_pipeline_colab.ipynb
